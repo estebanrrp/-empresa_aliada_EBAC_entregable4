@@ -1,41 +1,51 @@
-# 📊 Proyecto Empresa Aliada – Entregable 4
+🤝 Análisis de Datos para Empresa Aliada
 
-Automatización de análisis empresarial con Python, enfocado en eficiencia operativa, visualización avanzada y generación de reportes segmentados.
+Este proyecto se centra en el análisis de datos reales de una empresa aliada, con el objetivo de generar insights estratégicos que impulsen decisiones informadas. Desde la limpieza de datos hasta la visualización de patrones clave, este trabajo demuestra cómo convertir información cruda en inteligencia accionable.
+🎯 Objetivo
 
-> 🧩 *Este código procesa datos empresariales, genera visualizaciones comparativas y exporta reportes automatizados para apoyar decisiones estratégicas.*
+Transformar datos operativos en conocimiento útil para:
 
-## ⚙️ Herramientas utilizadas
+    Identificar tendencias de ventas y comportamiento del cliente
 
-| Herramienta       | Función principal                          |
-|-------------------|--------------------------------------------|
-| Python            | Lenguaje base del proyecto                 |
-| Pandas            | Limpieza, transformación y análisis de datos |
-| NumPy             | Cálculos numéricos                         |
-| Matplotlib        | Visualización personalizada                |
-| Seaborn           | Gráficos estadísticos                      |
-| Jupyter Notebook  | Desarrollo interactivo                     |
-| XlsxWriter        | Exportación de resultados a Excel          |
+    Optimizar procesos internos
 
-## 🧠 ¿Qué hace este código?
+    Apoyar la toma de decisiones gerenciales con evidencia
 
-- Carga y depura datos desde archivos CSV
-- Segmenta información por cliente, servicio y región
-- Genera gráficos comparativos y de tendencia
-- Exporta reportes automatizados en Excel
-- Integra análisis visual para facilitar la toma de decisiones
+🛠️ Herramientas utilizadas
 
-## 🚀 Aplicaciones reales
+    Python: motor principal del análisis
 
-- **Optimización operativa**: Identificar áreas de mejora en procesos internos.
-- **Reportes ejecutivos**: Automatizar la generación de informes para toma de decisiones.
-- **Segmentación de clientes**: Analizar comportamiento por región o tipo de servicio.
-- **Auditoría de datos**: Validar consistencia y calidad de información empresarial.
+    Pandas: limpieza y manipulación de datos
 
-## 📁 Estructura del proyecto
+    Matplotlib & Seaborn: visualización clara y estética
 
-```bash
-📦 empresa-aliada-entregable4/
-├── data/               # Archivos CSV de entrada
-├── notebooks/          # Jupyter Notebooks con el análisis
-├── output/             # Reportes y visualizaciones exportadas
-├── README.md           # Este archivo
+    Jupyter Notebook: entorno interactivo para desarrollo y presentación
+
+    Google Colab: ejecución en la nube
+
+📈 Principales análisis
+
+    Limpieza y normalización de datos
+
+    Análisis de ventas por producto, categoría y periodo
+
+    Visualización de comportamiento del cliente
+
+    Detección de outliers y patrones ocultos
+
+    Segmentación de datos para recomendaciones estratégicas
+
+💡 Aplicaciones futuras
+
+Este proyecto puede escalarse para:
+
+    Dashboards ejecutivos en tiempo real
+
+    Modelos predictivos de demanda
+
+    Automatización de reportes semanales
+
+    Integración con sistemas ERP o CRM
+
+📁 Estructura del repositorio
+Código
