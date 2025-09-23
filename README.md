@@ -1,6 +1,7 @@
 🤝 Análisis de Datos para Empresa Aliada
 
 Este proyecto se centra en el análisis de datos reales de una empresa aliada, con el objetivo de generar insights estratégicos que impulsen decisiones informadas. Desde la limpieza de datos hasta la visualización de patrones clave, este trabajo demuestra cómo convertir información cruda en inteligencia accionable.
+
 🎯 Objetivo
 
 Transformar datos operativos en conocimiento útil para:
