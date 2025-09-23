@@ -47,6 +47,3 @@ Este proyecto puede escalarse para:
     Automatización de reportes semanales
 
     Integración con sistemas ERP o CRM
-
-📁 Estructura del repositorio
-Código
