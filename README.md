@@ -1,8 +1,8 @@
-📊 Proyecto Empresa Aliada – Entregable 4
+## 📊 Proyecto Empresa Aliada – Entregable 4
 
 Este proyecto realiza un análisis completo de ventas de productos de limpieza, integrando múltiples fuentes de datos y aplicando técnicas de limpieza, segmentación y visualización. El objetivo es generar insights útiles para la toma de decisiones comerciales.
 
-🛠️ Herramientas utilizadas
+## 🛠️ Herramientas utilizadas
 
 Python 3: Para procesamiento de datos y análisis.
 
@@ -15,7 +15,7 @@ SQL: Validación, unión y exploración de datos.
 Jupyter Notebook / Google Colab: Entorno de desarrollo interactivo.
 
 
-🧠¿Qué Hace Este Código?
+## 🧠¿Qué Hace Este Código?
 
 Carga de Datos.
 
@@ -49,7 +49,7 @@ Generación de Insights
 
 -Analiza ventas por mes y año.
 
-🌍 Aplicaciones Reales
+## 🌍 Aplicaciones Reales
 
 Planeación de Inventario: Identificar formatos y regiones con mayor demanda.
 
