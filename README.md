@@ -1,49 +1,48 @@
-🤝 Análisis de Datos para Empresa Aliada
+📊 Proyecto Empresa Aliada – Entregable 4
 
-Este proyecto se centra en el análisis de datos reales de una empresa aliada, con el objetivo de generar insights estratégicos que impulsen decisiones informadas. Desde la limpieza de datos hasta la visualización de patrones clave, este trabajo demuestra cómo convertir información cruda en inteligencia accionable.
-
-🎯 Objetivo
-
-Transformar datos operativos en conocimiento útil para:
-
-    Identificar tendencias de ventas y comportamiento del cliente
-
-    Optimizar procesos internos
-
-    Apoyar la toma de decisiones gerenciales con evidencia
+Este proyecto realiza un análisis completo de ventas de productos de limpieza, integrando múltiples fuentes de datos y aplicando técnicas de limpieza, segmentación y visualización. El objetivo es generar insights útiles para la toma de decisiones comerciales.
 
 🛠️ Herramientas utilizadas
 
-    Python: motor principal del análisis
+Python 3: Para procesamiento de datos y análisis.
 
-    Pandas: limpieza y manipulación de datos
+Pandas: Carga, limpieza y transformación de datos.
 
-    Matplotlib & Seaborn: visualización clara y estética
+SQLite: Creación de base de datos relacional para consultas estructuradas.
 
-    Jupyter Notebook: entorno interactivo para desarrollo y presentación
+SQL: Validación, unión y exploración de datos.
 
-    Google Colab: ejecución en la nube
+Jupyter Notebook / Google Colab: Entorno de desarrollo interactivo.
 
-📈 Principales análisis
 
-    Limpieza y normalización de datos
+🧠¿Qué Hace Este Código?
 
-    Análisis de ventas por producto, categoría y periodo
+Carga de Datos.
+-Importa archivos CSV con información de productos, segmentos, calendario y ventas.
+-Unión de Tablas. Combina las tablas en un único DataFrame para análisis completo.
 
-    Visualización de comportamiento del cliente
+Limpieza y Validación
+-Verifica tipos de datos y claves nulas.
+-Revisa estructura y contenido de cada tabla.
 
-    Detección de outliers y patrones ocultos
+Creación de Base de Datos 
+-Exporta los DataFrames a una base de datos SQLite con estructura relacional.
 
-    Segmentación de datos para recomendaciones estratégicas
+Consultas SQL
+-Cuenta de registros por tabla.
+-Primeros registros y estructura de columnas.
+-Agrupaciones por formato, región y periodo.
 
-💡 Aplicaciones futuras
+Generación de Insights
+-Identifica formatos más vendidos (líquido, gel).
+-Detecta regiones con mayor rendimiento (Área 2).
+-Analiza ventas por mes y año.
 
-Este proyecto puede escalarse para:
+🌍 Aplicaciones Reales
+Planeación de Inventario: Identificar formatos y regiones con mayor demanda.
 
-    Dashboards ejecutivos en tiempo real
+Segmentación Comercial: Agrupar productos por comportamiento de ventas.
 
-    Modelos predictivos de demanda
+Optimización de Producción: Ajustar volúmenes según tendencias mensuales.
 
-    Automatización de reportes semanales
-
-    Integración con sistemas ERP o CRM
+Visualización Ejecutiva: Preparar dashboards y reportes para toma de decisiones.
