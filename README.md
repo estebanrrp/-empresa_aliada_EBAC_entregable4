@@ -1,6 +1,6 @@
 ## 📊 Proyecto Empresa Aliada – Entregable 4
 
-Este proyecto realiza un análisis completo de ventas de productos de limpieza, integrando múltiples fuentes de datos y aplicando técnicas de limpieza, segmentación y visualización. El objetivo es generar insights útiles para la toma de decisiones comerciales.
+Este proyecto realiza un análisis completo de ventas de productos de limpieza, mediante SQL, integrando múltiples fuentes de datos y aplicando técnicas de limpieza, segmentación y visualización. El objetivo es generar insights útiles para la toma de decisiones comerciales.
 
 ## 🛠️ Herramientas utilizadas
 
